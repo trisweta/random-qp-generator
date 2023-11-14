@@ -1,0 +1,24 @@
+body {
+    margin: 20px;
+}
+
+#questionTableContainer {
+    width: 80%;
+    margin: auto;
+}
+
+#questionTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+#questionTable th, #questionTable td {
+    border: 1px solid #a75858;
+    padding: 8px;
+    text-align: left;
+}
+
+#questionTable th {
+    background-color: rgb(230, 195, 195);
+}
